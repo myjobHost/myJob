@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myJob/static/css/main.dc20972e.css",
+    "main.js": "/myJob/static/js/main.5105f34f.js",
+    "static/media/987008.jpg": "/myJob/static/media/987008.010a44a382fc09d8c439.jpg",
+    "static/media/image.png": "/myJob/static/media/image.59b655cc85aa4e7a5ac5.png",
+    "static/media/wp5762340.jpg": "/myJob/static/media/wp5762340.efdd74778b9b316d758c.jpg",
+    "static/media/jpg": "/myJob/static/media/b5d844c08d0d72170d02e293581402fb.071653172acbe0dc7548.jpg",
+    "static/media/original.jpg": "/myJob/static/media/original.83d7436e2196f5624391.jpg",
+    "static/media/services-06.jpg": "/myJob/static/media/services-06.c04dd34b1ab7d77e2776.jpg",
+    "static/media/services-05.jpg": "/myJob/static/media/services-05.ec30aaf5a2835c3c5a9d.jpg",
+    "static/media/services-01.jpg": "/myJob/static/media/services-01.81fa5f99658a4fd86c21.jpg",
+    "static/media/work.svg": "/myJob/static/media/work.251269275de5cc267fe083b7e55a2f42.svg",
+    "static/media/undraw_remotely_2j6y.svg": "/myJob/static/media/undraw_remotely_2j6y.c32d0b1852c09cad7ec0c2b48c389957.svg",
+    "index.html": "/myJob/index.html",
+    "main.dc20972e.css.map": "/myJob/static/css/main.dc20972e.css.map",
+    "main.5105f34f.js.map": "/myJob/static/js/main.5105f34f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc20972e.css",
+    "static/js/main.5105f34f.js"
+  ]
+}
